@@ -8,7 +8,7 @@
 ```bash
 cd proyect-name
 
-npm i bootstrap sass
+npm i bootstrap sass 
 
 ```
 
